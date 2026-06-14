@@ -48,7 +48,6 @@ I am a software developer who believes in breaking boundaries—literally. I hav
 ### 📬 Let's Connect
 I'm always open to discussing new projects, open-source contributions, or technical challenges.
 *   **Email:** jaxorblue@gmail.com
-*   **LinkedIn:** [Your Profile Link Here]
 
 <p align="center">
   <i>"Coding is the art of building the world by your own rules."</i>
