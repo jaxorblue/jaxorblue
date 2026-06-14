@@ -32,7 +32,6 @@ I am a software developer who believes in breaking boundaries—literally. I hav
 ### 💡 What I'm Working On
 *   **Mobile App Development:** Compiling and building APKs directly on mobile.
 *   **Acode Ecosystem:** Engineering custom plugins to enhance mobile code editing and productivity.
-*   **Game Design:** Developing competitive 1vs1 game mechanics and 2D assets.
 *   **Freelancing:** Delivering custom software solutions tailored to your needs.
 
 ---
@@ -40,15 +39,15 @@ I am a software developer who believes in breaking boundaries—literally. I hav
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaxorBlue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JaxorBlue Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaxorBlue&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaxorblue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JaxorBlue Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaxorblue&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
 ### 📬 Let's Connect
 I'm always open to discussing new projects, open-source contributions, or technical challenges.
-*   **Email:** [Your Email Here]
+*   **Email:** jaxorblue@gmail.com
 *   **LinkedIn:** [Your Profile Link Here]
 
 <p align="center">
